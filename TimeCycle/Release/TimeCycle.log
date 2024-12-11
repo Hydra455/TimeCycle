@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\k3nto\OneDrive\Documente\TimeCycle\dllmain.cpp(41,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\k3nto\OneDrive\Documente\TimeCycle\dllmain.cpp(51,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 789 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TimeCycle.vcxproj -> C:\Users\k3nto\OneDrive\Documente\TimeCycle\Release\TimeCycle.dll
